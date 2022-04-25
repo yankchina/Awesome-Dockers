@@ -1,2 +1,7 @@
 # Awesome-Dockers
-Docker prototypes and related information
+Docker boilerplate and related information
+
+
+## My Docker boilerplate
+
+- [ffmpeg] : A `ffmpeg` + `pm2` Docker Image
